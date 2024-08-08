@@ -1,2 +1,2 @@
 # Data_structure-Project
-Traversal: Accessing each element of the array. Insertion: Adding an element at a specified index. Deletion: Removing an element from a specified index. Searching: Finding an element within the array. Sorting: Arranging the elements in a particular order (ascending or descending).
+This project is a comprehensive collection of implementations and examples of various data structures using c and c++. It aims to provide clear and concise code for each data structure, along with explanations and use cases. The repository serves as an educational resource for anyone looking to learn or improve their understanding of data structures.
